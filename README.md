@@ -9,4 +9,4 @@
 
 # Tutorial 🏆 Dan Batasan Program 🧗🏻‍♂️
 - Tutorial [Klik di sini untuk Turorial 👋🏻](https://github.com/fthyll/TBA-FIXX/blob/main/tutorial.md)
-- Batasa [Klik di sini untuk Turorial 🙅🏻‍♂️🙅🏻 ](https://github.com/fthyll/TBA-FIXX/blob/main/batasan.md)
+- Batasa [Klik di sini untuk melihat batasan  🙅🏻‍♂️🙅🏻 ](https://github.com/fthyll/TBA-FIXX/blob/main/batasan.md)
