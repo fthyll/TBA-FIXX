@@ -1,5 +1,5 @@
-# Getting started
-## Prerequisites
+# Getting started 🥇
+## Prerequisites ✨
 - Getting git
 Untuk menjalankan program setelah mengunduhnya menggunakan `git clone`, berikut adalah langkah-langkah yang bisa Anda ikuti:
 
@@ -30,7 +30,7 @@ Untuk menjalankan program setelah mengunduhnya menggunakan `git clone`, berikut 
 
 - Pastikan Anda telah memenuhi semua persyaratan dan dependensi yang dibutuhkan oleh program tersebut sebelum menjalankannya. Jika ada file `README` atau dokumentasi lainnya di repositori, bacalah dengan cermat untuk instruksi lebih lanjut.
 
-## Run Code
+## Run Code 🏃‍♀️🏃‍♂️🏃
 1.  Buka terminal atau command prompt pada komputer Anda.
 2.  Gunakan perintah cd untuk berpindah ke direktori tempat file Python (*.py) berada. Misalnya, jika file Python berada di direktori "Projects/TBA-FIXX", jalankan perintah berikut:
 ```
