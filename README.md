@@ -37,7 +37,11 @@ Untuk menjalankan program setelah mengunduhnya menggunakan `git clone`, berikut 
 cd Projects/TBA-FIXX
 ```
 
-3.  edit file ```inport.txt``` 
-4.  masukan code IF ELSE yang sesuai dengan tatabahasa golang di ```inport.txt``` 
+3.  edit file ```input.txt``` 
+4.  masukan code IF ELSE yang sesuai dengan tatabahasa golang di ```input.txt``` 
 5. jalankan ```main.py```
 6. perogram akan menganalisi dan output akan di tampilkan di terminal
+
+## Replit 💿
+program juga bisa di jalankan di sini 
+https://replit.com/@fthyll/TBA-FIXX
