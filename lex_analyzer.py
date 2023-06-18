@@ -1,5 +1,5 @@
-def lexAnalyze(tokens):
-    transition_table = {} 
+def lexAnalyze(tokens): # fungsi untuk melakukan analisis leksikal
+    transition_table = {}  
 
     #Transisi if -> variabel
     transition_table[('q0', 'if')] = 'q1'
