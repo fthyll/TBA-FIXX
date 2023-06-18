@@ -132,3 +132,6 @@ def lexAnalyze(tokens): # fungsi untuk melakukan analisis leksikal
         print('\nSeleksi kondisi If-Else pada Golang valid') # jika ya, valid
     else:
         print(f'\nSeleksi kondisi If-Else pada Golang tidak valid, transisi pada {currentState} gagal') # jika tidak, tidak valid
+        
+        
+        
